@@ -15,6 +15,6 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "on-updated-emitter": "^1.0.1"
+    "on-updated-emitter": "^1.0.2"
   }
 }

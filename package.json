@@ -1,0 +1,20 @@
+{
+  "name": "on-changed-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tape dist/tests/**/*.js | tap-spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.6.1",
+    "@types/tape": "^4.2.33",
+    "tape": "^4.11.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "on-updated-emitter": "^1.0.1"
+  }
+}

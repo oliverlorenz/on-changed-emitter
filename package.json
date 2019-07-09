@@ -2,7 +2,8 @@
   "name": "on-changed-emitter",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "npx tape dist/tests/**/*.js | tap-spec"
   },
